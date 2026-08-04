@@ -84,3 +84,16 @@ Software engineering student in Tehran. At the core, I'm a Python developer with
   <img src="https://img.shields.io/badge/Reflex-000000?style=flat-square" />
 </p>
 -->
+---
+
+### 📊 GitHub stats
+
+<p >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiinMohammadi&hide_border=true&background=FFFFFF&stroke=1F5C6E&ring=1F5C6E&fire=1F5C6E&currStreakLabel=1F5C6E" />
+</p>
+
+<p >
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmiinMohammadi&show_icons=true&theme=default&hide_border=true&title_color=1F5C6E&icon_color=1F5C6E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiinMohammadi&layout=compact&hide_border=true&title_color=1F5C6E&langs_count=8" />
+</p>
+
