@@ -10,6 +10,8 @@
 
 Software engineering student in Tehran. At the core, I'm a Python developer with a pull toward data — problem-solving and math are what actually keep me interested, and that's what's pulling me toward a longer-term path in data and machine learning. Learning fast and on my own is probably my biggest strength, and it's what got me here after moving through a few other languages first.
 
+---
+
 ### 🚀 What I'm Doing Now
 
 - 🎓 **Software Engineering student** at Shamsipour Technical and Vocational College, Tehran
@@ -17,6 +19,8 @@ Software engineering student in Tehran. At the core, I'm a Python developer with
 - 🌱 **Currently learning:** Docker, FastAPI, PostgreSQL
 - 🤝 Looking to contribute to team projects and open-source — always happy to collaborate
 - 🎯 Seeking an internship / junior role to work with real data problems alongside experienced developers
+
+---
 
 ### 📌 Featured Projects
 
@@ -26,6 +30,8 @@ Software engineering student in Tehran. At the core, I'm a Python developer with
 
 📫 **Reach me:** amin.mohammadii.dev@gmail.com
 
+---
+
 ### 🖥 Skills
 
 - **Languages:** Python, C#, Rust, PHP, JavaScript, HTML5/CSS3
@@ -34,9 +40,11 @@ Software engineering student in Tehran. At the core, I'm a Python developer with
 - **Databases:** SQL (MySQL, SQL Server)
 - **Tools:** Git, GitHub, Linux
 
+---
+
 ### ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,rust,tauri,js,html,css,mysql,wasm,vscode,git,linux,fastapi,bash,anaconda&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,php,rust,tauri,wasm,js,html,css,mysql,sqlite,postgres,visualstudio,vscode,arduino,git,docker,fastapi,linux,arch,bash,anaconda,regex&perline=12)](https://skillicons.dev)
 
 <!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp&color=353535) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&color=353535) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&color=353535) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&color=353535) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&color=353535) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3&color=353535) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&color=353535) ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit&color=353535) ![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=flat-square&logo=tauri&color=353535) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&color=353535) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoftsqlserver&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
 -->
