@@ -27,21 +27,8 @@ I'm a software engineering student. Lately most of my time goes into applied AI 
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=scikitlearn&color=353535)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) 
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat-square&color=353535) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=353535) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=nextdotjs&color=353535) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=nodedotjs&color=353535) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=tailwindcss&color=353535) 
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=Rust&color=353535)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
 ![SQLite](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQLite&color=353535) 
-
-
-<div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
-
 
 ## 🎯 Looking for
 
@@ -54,3 +41,7 @@ An internship in software or applied AI, where I can learn from people who are b
 
 
 *I'm early in the journey, so advice and feedback are very welcome.*
+
+<div>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AmiinMohammadi" alt="AmiinMohammadi" />
+</div>
